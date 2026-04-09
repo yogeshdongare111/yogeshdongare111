@@ -55,7 +55,7 @@ Platforms        : Windows | Android | iOS | Linux
 
 | Company | Role | Period |
 |---------|------|--------|
-| ICAD Technologies Pvt. Ltd. / ICAD Technologies Pvt. Ltd.| Senior Quality Analyst | Apr 2021 - Present |
+| ICAD Technologies Pvt. Ltd. / ICAD Publications Pvt. Ltd.| Senior Quality Analyst | Apr 2021 - Present |
 | SoftSystems Consultancies Pvt. Ltd. | Senior Quality Analyst | 2017 - Apr 2021 |
 | SoftSystems Consultancies Pvt. Ltd. | Quality Analyst | Apr 2013 - 2017 |
 
